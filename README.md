@@ -8,12 +8,12 @@ If you use our dabase or code for a scientific publication, we would appreciate 
 
 **APA**
 
-Pereira, F. D., Pires, Francisco, Fonseca, S. C., Oliveira, E. H., Cristea, A. I., Carvalho, L. S & Oliveira, D. B. 2020. Towards a Human-AI hybrid system for categorising programming problems. In Proceedings of the 52st ACM Technical Symposium on Computer Science Education (SIGCSE '21).  Association for Computing Machiner. DOI:https://doi.org/10.1145/3408877.3432422.
+Pereira, F. D., Pires, Francisco, Fonseca, S. C., Oliveira, E. H., Carvalho, L. S, Oliveira, D. B & Cristea, A. I. 2020. Towards a Human-AI hybrid system for categorising programming problems. In Proceedings of the 52st ACM Technical Symposium on Computer Science Education (SIGCSE '21).  Association for Computing Machiner. DOI:https://doi.org/10.1145/3408877.3432422.
 
 **Bibtex**
 
 @inproceedings{pereira2021sigcse,
-author={Pereira, Filipe Dwan and Pires, Francisco and Fonseca, Samuel C and Oliveira, Elaine HT and Cristea, Alexandra I and Carvalho, Leandro SG and Oliveira, David BF},
+author={Pereira, Filipe Dwan and Pires, Francisco and Fonseca, Samuel C and Oliveira, Elaine HT and Carvalho, Leandro SG and Oliveira, David BF and Alexandra I},
 title = {Towards a Human-AI hybrid system for categorising programming problems},
 year = {2021},
 isbn = {97814503806212103},
